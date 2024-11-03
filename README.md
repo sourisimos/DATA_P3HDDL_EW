@@ -12,7 +12,7 @@ This dataset is shared under the following conditions to respect the terms set b
 
     Disclaimer of Warranties: The disclaimer of warranties associated with this dataset, as provided by the Licensor, is acknowledged.
 
-    Link to Original Licensed Material: https://www.mydrive.ch/shares/38536/3830184030e49fe74747669442f0f282/download/420938113-1629952094/mvtec_anomaly_detection.tar.xz.
+    Link to Original Licensed Material: https://zenodo.org/records/10459003/files/engine_wiring.zip?download=1.
 
     Modifications: This dataset includes modifications from the original material.
 
